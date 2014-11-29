@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Daily Selfie</string>
+    <string name="action_camera">Make Photo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_photo_view">PhotoViewActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
